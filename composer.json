@@ -9,7 +9,6 @@
             "email": "info@bondan.biz"
         }
     ],
-	"minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
