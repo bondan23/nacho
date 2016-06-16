@@ -1,18 +1,18 @@
 {
-    "name": "philipbrown/Nacho",
-    "description": "Nacho, nacho man. I want to be a nacho man",
+    "name": "Bonds23/Nacho",
+    "description": "Say Cheeeseee",
     "license": "MIT",
     "keywords": ["nacho"],
     "authors": [
         {
-            "name": "Philip Brown",
-            "email": "name@domain.com"
+            "name": "Bonds",
+            "email": "info@bondan.biz"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "PhilipBrown\\Nacho\\": "src"
+            "Bonds23\\Nacho\\": "src"
         }
     }
 }

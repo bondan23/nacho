@@ -1,4 +1,4 @@
-<?php namespace PhilipBrown\Nacho;
+<?php namespace Bonds23\Nacho;
  
 class Nacho {
  
